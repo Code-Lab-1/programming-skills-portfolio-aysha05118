@@ -1,0 +1,5 @@
+message ="I love painting"
+print(message)
+
+message ="painting of landscape"
+print(message)
