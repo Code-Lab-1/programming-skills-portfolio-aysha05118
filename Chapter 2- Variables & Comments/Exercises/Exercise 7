@@ -1,0 +1,7 @@
+name="Aysha nouri"
+age=18
+contact_number="0581380533"
+email="ayshanouri05@gmail.com"
+department="creative computing"
+level="bechelors"
+print(name,age,contact_number,email,department,level)
