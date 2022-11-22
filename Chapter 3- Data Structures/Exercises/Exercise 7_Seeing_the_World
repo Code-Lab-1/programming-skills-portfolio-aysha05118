@@ -1,0 +1,31 @@
+locations=["America","Himalaya","Nagaland","Antartica","Columbia"]
+
+print("Original order:")
+print(locations)
+
+print("Alphabetical:")
+print(sorted(locations))
+
+print("Original order:")
+print(locations)
+
+print("Reverse alphabetical:")
+print(sorted(locations, reverse=True))
+
+print("Original order:")
+print(locations)
+
+print("Reversed:")
+locations.reverse()
+print(locations)
+
+print("Original order:")
+print(locations)
+
+print("Alphabetical")
+locations.sort()
+print(locations)
+
+print("Reverse alphabetical")
+locations.sort(reverse=True)
+print(locations)

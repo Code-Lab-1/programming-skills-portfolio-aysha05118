@@ -1,0 +1,15 @@
+glossary={"loop":"A for loop is used for iterating over a sequence","Variables":"A Python variable is a symbolic name that is a reference or pointer to an object.","list":"n Python,a list is created by placing elements inside square brackets [] , separated by commas.","command":" Some common Python commands are input, print, range, round, pip install, len, sort, loop commands like for and while so on and so forth.","Dictionary":"Dictionaries are used to store data values in key:value pairs."}
+word = 'loop'
+print("\n" + word.title() + ": " + glossary[word])
+
+word = 'Variables'
+print("\n" + word.title() + ": " + glossary[word])
+
+word = 'list'
+print("\n" + word.title() + ": " + glossary[word])
+
+word = 'command'
+print("\n" + word.title() + ": " + glossary[word])
+
+word = 'Dictionary'
+print("\n" + word.title() + ": " + glossary[word])

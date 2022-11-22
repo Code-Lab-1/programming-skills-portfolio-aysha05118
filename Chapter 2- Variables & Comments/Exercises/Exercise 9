@@ -1,0 +1,5 @@
+# create a variable
+name = 'Rifas NM'
+
+# print the value
+print(name)

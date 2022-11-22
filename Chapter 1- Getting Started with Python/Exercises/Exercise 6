@@ -1,0 +1,10 @@
+a=5
+b=4
+print("sum")
+print(a+b)
+print("difference")
+print(a-b)
+print("product")
+print(a*b)
+print("5 divided by 2")
+print(5/2)
