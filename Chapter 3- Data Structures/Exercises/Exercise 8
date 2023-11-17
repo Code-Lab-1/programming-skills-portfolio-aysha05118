@@ -1,0 +1,6 @@
+names=['Aysha','Harsha','Hiba','Rifas','Richu']
+print('hi ' + names[0] + " How are you")
+print('hi ' + names[1] + " How are you")
+print('hi ' + names[2] + " How are you")
+print('hi ' + names[3] + " How are you")
+print('hi ' + names[4] + " How are you")

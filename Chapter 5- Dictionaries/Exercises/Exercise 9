@@ -1,0 +1,4 @@
+student={'Name': 'Aysha', 'Age': '18', 'Class': 'Year 1', 'Gender': 'Female', 'Location': 'United Arabe Emirates', 'Blood group': 'A+'}
+student.pop("Name")
+(student.popitem())
+print(student)

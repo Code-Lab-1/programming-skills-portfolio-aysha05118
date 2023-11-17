@@ -1,0 +1,3 @@
+student={"Name": "Aysha","Age":"18","Class":"Year 1","Gender": "Female","Location":"United Arabe Emirates"}
+print(student)
+print(student["Age"])

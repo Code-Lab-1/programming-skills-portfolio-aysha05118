@@ -1,0 +1,4 @@
+names =("\n\tRichard")
+print(names.lstrip())
+print(names.rstrip())
+print(names.strip())
